@@ -1,5 +1,3 @@
-![Let's Build an event scheduling app with Ruby on Rails 7](https://f001.backblazeb2.com/file/webcrunch/event-scheduling-app-rails-7-cover.jpg)
-
 # Let's Build an event scheduling app with Ruby on Rails 7
 
 
